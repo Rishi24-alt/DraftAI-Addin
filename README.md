@@ -1,5 +1,3 @@
-# DraftAI-Addin
-
 # Draft AI — SolidWorks Sketch Analyzer
 
 AI-powered SolidWorks add-in that detects missing constraints 
